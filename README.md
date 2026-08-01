@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mayur Dhang 👋
 
-<!--
-**mayurdhang031/mayurdhang031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Final-Year Electrical & Electronics Engineering Student
+- Passionate about Embedded Systems and PCB Design
+- Interested in Hardware Development and Semiconductor Technologies
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- Embedded C
+- C Programming
+- STM32 Microcontrollers
+- KiCad
+- MATLAB
+- Analog Electronics
+- Digital Electronics
+- PCB Design
+- PCB Layout
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+- Cloud-Integrated-Digital-Twin-DC-Microgrid
+- Digital-Thermometer-STM32
+- Digital-Voltmeter-STM32
+- Bus-and-Truck-Drunk-Driving-Alert-System
+
+
+## 📫 Contact
+- Email: mayurdhang031@gmail.com
+- GitHub: github.com/mayurdhang031
+
+---
+⭐ Thanks for visiting my profile!
+
